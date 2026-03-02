@@ -7,7 +7,7 @@ setlocal enabledelayedexpansion
 :: CONFIGURATION
 :: ============================================================================
 :: Internal Debug Level for the Batch Script (0 = Silent, 1 = Verbose)
-set "DEBUG_VAL=1"
+set "DEBUG_VAL=0"
 
 set "DOCKER_IMAGE=gcc:latest"
 set "TEMP_CPP=obsidian_code.cpp"
