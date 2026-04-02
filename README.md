@@ -135,3 +135,7 @@ For detailed execution information:
 - **Permission errors:** Check that Windows Defender or antivirus isn't blocking the wrapper
 - **Include not found:** Enable debug mode to see the search path
 - **Compilation errors:** Use `DEBUG_VAL=1` to inspect the exact g++ command being run
+
+# Limitations
+
+- no Module Support
